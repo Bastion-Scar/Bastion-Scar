@@ -1,6 +1,6 @@
 - 🌊 I'm Bastion
 - 🌱 I’m currently learning `DevOps+Golang`
-- 🎮 I lobe undertale/deltarune
+- 🎮 I love undertale/deltarune
 - 📫 Discord: `bastion_scar`
 - ✈️ Telegram: `@SlaughterContinues`
 
